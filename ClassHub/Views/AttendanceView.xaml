@@ -1,0 +1,11 @@
+<!--
+AttendanceView.xaml
+点名册管理界面
+-->
+<Page
+    x:Class="ClassHub.Views.AttendanceView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+    <!-- TODO: 学生信息录入、编辑、删除、密码保护等UI布局 -->
+</Page>

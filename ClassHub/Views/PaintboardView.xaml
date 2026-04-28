@@ -1,0 +1,11 @@
+<!--
+PaintboardView.xaml
+简易画板界面
+-->
+<Page
+    x:Class="ClassHub.Views.PaintboardView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+    <!-- TODO: 画笔、橡皮、图形、颜色、清屏、保存、全屏、密码保护等UI布局 -->
+</Page>

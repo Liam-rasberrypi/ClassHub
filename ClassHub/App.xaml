@@ -1,0 +1,11 @@
+<!--
+App.xaml
+WinUI 3 应用程序入口资源字典
+-->
+<Application
+    x:Class="ClassHub.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    >
+    <!-- TODO: 定义全局资源，如主题、样式等 -->
+</Application>
