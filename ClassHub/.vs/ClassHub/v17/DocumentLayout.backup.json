@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\classhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:classhub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:26:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvy8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:30:35.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Forms\\MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:28:31.468Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassHub",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\ClassHub.csproj",
+              "RelativeDocumentMoniker": "ClassHub.csproj",
+              "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\ClassHub.csproj",
+              "RelativeToolTip": "ClassHub.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T04:29:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:29:01.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Models\\AppSettings.cs",
+              "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Models\\AppSettings.cs",
+              "RelativeToolTip": "Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:26:21.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

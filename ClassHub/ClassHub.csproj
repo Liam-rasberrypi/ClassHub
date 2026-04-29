@@ -6,6 +6,7 @@
     <RootNamespace>ClassHub</RootNamespace>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Company>Liam</Company>
   </PropertyGroup>
 
   <ItemGroup>

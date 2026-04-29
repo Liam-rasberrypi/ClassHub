@@ -18,7 +18,9 @@ namespace ClassHub
             var appContext = Bootstrapper.Build();
 
             // TODO: 如果有登录流程，可先弹出 LoginForm 做身份验证，再进入主窗体
-            Application.Run(new MainForm(appContext));
+            var form = new MainForm();
+            form.SetContext(appContext);
+            Application.Run(form);
         }
     }
 }
