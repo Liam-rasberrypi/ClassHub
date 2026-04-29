@@ -1,27 +1,11 @@
 // RelayCommand.cs
-// MVVM命令实现，支持按钮绑定命令
-using System;
-using System.Windows.Input;
-
+// 迁移后说明：WinForms 不使用 WPF/WinUI 的 ICommand 绑定模型
 namespace ClassHub
 {
-    public class RelayCommand : ICommand
+    public static class RelayCommandMigrationNote
     {
-        private readonly Action<object?> _execute;
-        private readonly Func<object?, bool>? _canExecute;
-
-        public RelayCommand(Action<object?> execute, Func<object?, bool>? canExecute = null)
-        {
-            _execute = execute;
-            _canExecute = canExecute;
-        }
-
-        public event EventHandler? CanExecuteChanged;
-
-        public bool CanExecute(object? parameter) => _canExecute?.Invoke(parameter) ?? true;
-
-        public void Execute(object? parameter) => _execute(parameter);
-
-        public void RaiseCanExecuteChanged() => CanExecuteChanged?.Invoke(this, EventArgs.Empty);
+        // TODO: 若后续采用 MVP/MVVM-Lite，可在此引入 WinForms 可用的命令封装。
+        // TODO: 当前推荐直接使用 WinForms 事件机制（Button.Click 等）。
     }
 }
+

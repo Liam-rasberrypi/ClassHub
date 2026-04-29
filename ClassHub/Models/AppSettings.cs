@@ -4,6 +4,20 @@ namespace ClassHub.Models
 {
     public class AppSettings
     {
-        // TODO: 添加主题、界面大小、开机自启等设置项
+        // TODO: 浅色/深色主题
+        public string Theme { get; set; } = "Light";
+
+        // TODO: 窗口模式（Windowed/Fullscreen）
+        public string WindowMode { get; set; } = "Windowed";
+
+        // TODO: UI 缩放比例
+        public float UiScale { get; set; } = 1.0f;
+
+        // TODO: 是否开机自启
+        public bool AutoStart { get; set; }
+
+        // TODO: 数据目录（默认本地）
+        public string DataFolder { get; set; } = string.Empty;
     }
 }
+

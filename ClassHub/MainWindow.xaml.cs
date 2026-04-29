@@ -1,16 +1,11 @@
 // MainWindow.xaml.cs
-// 主界面逻辑代码
-// TODO: 处理主界面按钮点击，导航到各功能模块
-using Microsoft.UI.Xaml;
-
+// 迁移占位文件：原 WinUI 主窗口逻辑已迁移到 Forms/MainForm.cs
 namespace ClassHub
 {
-    public sealed partial class MainWindow : Window
+    internal static class MainWindowMigrationNote
     {
-        public MainWindow()
-        {
-            this.InitializeComponent();
-            // TODO: 初始化主界面
-        }
+        // TODO: 若确认不再需要 WinUI 历史文件，可删除 MainWindow.xaml / MainWindow.xaml.cs。
     }
 }
+
+

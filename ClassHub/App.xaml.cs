@@ -1,16 +1,12 @@
 // App.xaml.cs
-// WinUI 3 应用程序主入口
-// TODO: 初始化主窗口，加载主界面
-using Microsoft.UI.Xaml;
-
+// 迁移占位文件：原 WinUI App 入口已迁移到 Program.cs
 namespace ClassHub
 {
-    public partial class App : Application
+    internal static class AppMigrationNote
     {
-        public App()
-        {
-            this.InitializeComponent();
-            // TODO: 初始化主窗口
-        }
+        // TODO: 若确认不再需要 WinUI 兼容信息，可删除 App.xaml / App.xaml.cs。
+        // TODO: 当前文件仅作为迁移记录，避免与 Program.Main 重复定义入口。
     }
 }
+
+

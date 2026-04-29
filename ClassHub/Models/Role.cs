@@ -5,8 +5,10 @@ namespace ClassHub.Models
     public enum Role
     {
         Admin,
+        Teacher,
         Deputy,
         Student
-        // TODO: 可扩展更多角色
+        // TODO: 后续可支持“访客”“只读审计”等扩展角色
     }
 }
+
