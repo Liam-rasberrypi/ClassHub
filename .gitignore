@@ -1,0 +1,76 @@
+# ------------------------------
+# Build outputs
+# ------------------------------
+[Bb]in/
+[Oo]bj/
+out/
+artifacts/
+publish/
+
+# ------------------------------
+# Visual Studio / VS Code
+# ------------------------------
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# ------------------------------
+# Rider / ReSharper
+# ------------------------------
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# ------------------------------
+# Test / Coverage
+# ------------------------------
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+
+# ------------------------------
+# NuGet
+# ------------------------------
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+
+# ------------------------------
+# Logs / temp
+# ------------------------------
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+
+# ------------------------------
+# OS files
+# ------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------
+# Local app/runtime data (keep repo clean)
+# ------------------------------
+ClassHub/Data/
+ClassHub/Backups/
+ClassHub/Logs/
+
+# ------------------------------
+# Secrets / env
+# ------------------------------
+.env
+.env.*
+*.pfx
+*.snk
