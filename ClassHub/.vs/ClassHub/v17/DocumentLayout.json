@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82849D8F-0B08-E061-EFE3-4DE97C678D4E}|ClassHub.csproj|d:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\visual studios\\c#\\classhub\\classhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,33 +48,35 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:26:35.039Z"
+              "WhenOpened": "2026-04-29T04:26:35.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
               "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs",
               "RelativeToolTip": "Forms\\MainForm.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAADwvy0AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAQwC0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T04:30:35.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
               "ToolTip": "D:\\\u7F16\u7A0B\\\u7A0B\u5E8F\\VISUAL STUDIOS\\C#\\ClassHub\\ClassHub\\Forms\\MainForm.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "Forms\\MainForm.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T04:28:31.468Z"
+              "WhenOpened": "2026-04-29T04:28:31.468Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
