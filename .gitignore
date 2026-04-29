@@ -6,6 +6,11 @@
 # dotenv files
 .env
 
+ClassHub/bin/
+ClassHub/obj/
+ClassHub/.vs/
+
+
 # User-specific files
 *.rsuser
 *.suo
