@@ -236,7 +236,7 @@ _pkginfo.txt
 !?*.[Cc]ache/
 
 # Others
-ClientBin/
+Client/
 ~$*
 *~
 *.dbmdl
@@ -354,6 +354,10 @@ OpenCover/
 
 # Azure Stream Analytics local run output
 ASALocalRun/
+
+bin/
+obj/
+.vs/
 
 # MSBuild Binary and Structured Log
 *.binlog
