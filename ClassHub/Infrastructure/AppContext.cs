@@ -14,6 +14,7 @@ namespace ClassHub.Infrastructure
         public ISystemOptimizerService SystemOptimizerService { get; }
         public ISecurityService SecurityService { get; }
         public IClassroomPolicyService ClassroomPolicyService { get; }
+        public INoticeService NoticeService { get; }
         public INavigationService NavigationService { get; }
 
         public ClassHubAppContext(
@@ -24,6 +25,7 @@ namespace ClassHub.Infrastructure
             ISystemOptimizerService systemOptimizerService,
             ISecurityService securityService,
             IClassroomPolicyService classroomPolicyService,
+            INoticeService noticeService,
             INavigationService navigationService)
         {
             AccountService = accountService;
@@ -33,6 +35,7 @@ namespace ClassHub.Infrastructure
             SystemOptimizerService = systemOptimizerService;
             SecurityService = securityService;
             ClassroomPolicyService = classroomPolicyService;
+            NoticeService = noticeService;
             NavigationService = navigationService;
         }
     }

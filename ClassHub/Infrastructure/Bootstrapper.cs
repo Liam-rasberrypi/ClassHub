@@ -17,6 +17,7 @@ namespace ClassHub.Infrastructure
             var systemOptimizerService = new SystemOptimizerService();
             var securityService = new SecurityService();
             var classroomPolicyService = new ClassroomPolicyService();
+            var noticeService = new NoticeService();
 
             // TODO: 配置模块导航注册（一级模块 + 二级功能）
             var navigationService = new NavigationService();
@@ -53,6 +54,7 @@ namespace ClassHub.Infrastructure
                 systemOptimizerService,
                 securityService,
                 classroomPolicyService,
+                noticeService,
                 navigationService);
         }
     }
