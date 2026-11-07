@@ -49,6 +49,8 @@ namespace ClassHub.Forms
         {
             // 一级模块（与产品大纲保持一致）
             AddNavButton("班级日常管理", ModuleKeys.ClassManagementCenter);
+            // 一级模块仍是骨架，提供已实现公告功能的直接入口。
+            AddNavButton("班级公告", ModuleKeys.Notice);
             AddNavButton("教学辅助工具", ModuleKeys.TeachingAssistCenter);
             AddNavButton("电脑一键优化", ModuleKeys.SystemOptimizationCenter);
             AddNavButton("软件基础设置", ModuleKeys.SettingsCenter);

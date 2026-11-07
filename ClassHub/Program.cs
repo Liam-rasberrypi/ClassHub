@@ -17,7 +17,8 @@ namespace ClassHub
             // TODO: 在此完成应用初始化流程（日志、配置加载、异常处理、依赖注入等）
             var appContext = Bootstrapper.Build();
 
-            // TODO: 如果有登录流程，可先弹出 LoginForm 做身份验证，再进入主窗体
+            // 以访客方式启动，公告查看无需登录。每次公告修改由模块弹出管理员验证，
+            // 并由公告服务校验权限；账户不可用也不会阻断主窗体和公告浏览。
             Application.Run(new MainForm(appContext));
         }
     }

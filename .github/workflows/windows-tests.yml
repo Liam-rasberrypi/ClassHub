@@ -1,0 +1,30 @@
+name: Windows build and authorization tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - name: Restore
+        run: dotnet restore ClassHub.Tests/ClassHub.Tests.csproj
+      - name: Build
+        run: dotnet build ClassHub.Tests/ClassHub.Tests.csproj --configuration Release --no-restore
+      - name: Test offline authentication and service authorization
+        run: dotnet test ClassHub.Tests/ClassHub.Tests.csproj --configuration Release --no-build --logger "trx;LogFileName=windows-tests.trx"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: windows-test-results
+          path: ClassHub.Tests/TestResults/*.trx
+          if-no-files-found: ignore

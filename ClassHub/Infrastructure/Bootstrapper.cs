@@ -15,9 +15,9 @@ namespace ClassHub.Infrastructure
             var fileService = new FileService();
             var settingsService = new SettingsService();
             var systemOptimizerService = new SystemOptimizerService();
-            var securityService = new SecurityService();
+            var securityService = new SecurityService(accountService);
             var classroomPolicyService = new ClassroomPolicyService();
-            var noticeService = new NoticeService();
+            var noticeService = new NoticeService(securityService);
 
             // TODO: 配置模块导航注册（一级模块 + 二级功能）
             var navigationService = new NavigationService();
